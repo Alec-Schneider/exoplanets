@@ -20,7 +20,7 @@ orig_test.to_csv("data/Test.csv", index=False)
 
 ### Visualize the data via Principal Component Analysis
 
-[Interactive 3D Plot of the data transofrmed by PCA ](./data/pca3_plot.html)
+[Interactive 3D Plot of the data transofrmed by PCA ](https://htmlpreview.github.io/?https://github.com/Alec-Schneider/exoplanets/blob/main/data/pca3_plot.html)
 
 #### Scatter Plot of the PCA Transformed data
 
